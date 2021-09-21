@@ -1,2 +1,2 @@
-# yoworld_scraper
+# YoWorld Scraper
 Scrape entries from yoworld forum.
